@@ -22,7 +22,7 @@ A professional Python tool for analyzing Inertial Measurement Unit (IMU) sensor 
 ### Prerequisites
 
 ```bash
-pip install numpy pandas matplotlib seaborn
+pip install numpy pandas matplotlib
 ```
 
 ### Clone Repository
