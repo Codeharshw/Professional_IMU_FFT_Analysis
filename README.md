@@ -28,7 +28,7 @@ pip install numpy pandas matplotlib
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/imu-fft-analysis.git
+git clone https://github.com/Codeharshw/imu-fft-analysis.git
 cd imu-fft-analysis
 ```
 
