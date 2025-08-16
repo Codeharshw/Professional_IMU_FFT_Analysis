@@ -313,7 +313,7 @@ def main():
         summary_df.to_csv("imu_analysis_summary.csv", index=False)
         print(f"\nSummary saved to: imu_analysis_summary.csv")
         
-    else:
+    else: 
         print("Failed to load data. Please check the CSV file path.")
 
 
