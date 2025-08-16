@@ -288,7 +288,7 @@ class IMUAnalyzer:
 def main():
     """Main function to run the IMU analysis."""
     # Configuration
-    CSV_FILE_PATH = "calibrated_mpu9250_data.csv"
+    CSV_FILE_PATH = "your_accelerometer_data.csv"  # Upload your accelerometer CSV file here
     SAVE_PLOTS = True
     PLOTS_OUTPUT_PATH = "imu_fft_analysis_plots.png"
     
@@ -320,3 +320,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
