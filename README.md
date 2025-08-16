@@ -223,5 +223,4 @@ For questions, bug reports, or feature requests, please open an issue on GitHub.
 ## Acknowledgments
 
 - Built with NumPy, Pandas, and Matplotlib
-- Inspired by signal processing best practices
 - Tested with MPU9250 sensor data
