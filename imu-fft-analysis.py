@@ -12,7 +12,7 @@ Features:
 - Professional visualization with multiple plot types
 - Compatible with MPU9250 and similar IMU sensors
 
-Author: [Your Name]
+Author: [Codeharshw]
 License: MIT
 """
 
@@ -320,4 +320,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
